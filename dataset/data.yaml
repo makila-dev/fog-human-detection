@@ -1,0 +1,17 @@
+path: dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 8
+
+names:
+  0: person
+  1: car
+  2: truck
+  3: bus
+  4: motorcycle
+  5: bicycle
+  6: rider
+  7: train
